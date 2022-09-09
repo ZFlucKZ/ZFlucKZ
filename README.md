@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fluke, 22 years old
-- 👀 I’m interested in game, music, trade(crypto) and code
+- 👀 I’m interested in game, music, trade(crypto) and coding
 - 🌱 I’m currently learning about MERN Stack.
 - 💞️ I’m looking to collaborate on Web developer/Full stack developer
 - 📫 How to reach me
