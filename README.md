@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Fluke, 22 years old
-- 👀 I’m interested in games, music, crypto, and coding
+- 👀 I’m interesting in programming/coding, music, and investment
 - 🌱 I’m currently learning about MERN Stack.
 - 💞️ I’m looking for work on Web developer/Full stack developer
 - 📫 How to reach me
   - Facebook - Fluck Pajjaphon
-  - Line ID - fluckzaa5050
-  - E-mail - guyguy5050@gmail.com
+  - E-mail - pajjaphon.whan@gmail.com
   - LinkedIn - Pajjaphon Whanchid
