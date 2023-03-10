@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Fluke, 22 years old
-- 👀 I’m interesting in programming/coding, music, and investment
-- 🌱 I’m currently learning about MERN Stack.
-- 💞️ I’m looking for work on Web developer/Full stack developer
+- 👋 Hi, I’m Fluke, 23 years old.
+- 👀 I’m interesting in programming/coding, music, and investment.
+- 🌱 I’m a self taught full stack developer.
+- 💞️ I’m a software engineer at Furukawa Fitel.
+-  👀 I'm learning and working on Html, Css, Javascript, Typescript, React, NextJS, NodeJS, ExpressJS, MongoDb, MySQL and more... 
+
 - 📫 How to reach me
-  - Website - https://pajjaphon-portfolio.onrender.com
+  - Website - https://pajjaphon-portfolio.onrender.com (Closed)
   - Facebook - Fluck Pajjaphon
   - E-mail - pajjaphon.whan@gmail.com
   - LinkedIn - Pajjaphon Whanchid
