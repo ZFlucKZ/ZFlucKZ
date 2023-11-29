@@ -1,7 +1,7 @@
 Hi 👋 My name is Pajjaphon Whanchid
 ===================================
 
-A self-taught web developer
+A self-taught full stack developer
 ---------------------------
 
 I'm working on HTML, CSS, Javascript, Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, MySQL, and more...
