@@ -9,7 +9,7 @@ I'm working on HTML, CSS, Javascript, Typescript, React, NextJS, NodeJS, Express
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [pajjaphon.whan@gmail.com](mailto:pajjaphon.whan@gmail.com)
 * 🚀  I'm currently working on [Furukawa Fitel](http://www.fitel.co.th/)
-* 🧠  Now, I'm learning NextJS (App router), Golang (Backend), React Native, Cypress, Docker, AWS
+* 🧠  Now, I'm learning NextJS (App router), Golang (Backend), React Native, Cypress, Docker, Kubernetes, AWS, Github Actions, Gitlab CI
 * 🤝  I'm open to collaborating on Web developer
 * ⚡  I’m interesting in programming/coding, music, and investment/money management.
 
