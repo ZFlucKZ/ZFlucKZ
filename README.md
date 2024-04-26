@@ -4,12 +4,12 @@ Hi 👋 My name is Pajjaphon Whanchid
 A self-taught full-stack developer
 ---------------------------
 
-I'm working on HTML, CSS, Javascript, Typescript, React, NextJS, NodeJS, ExpressJS, MongoDB, MySQL
+I'm working on HTML, CSS, Javascript, Typescript, React, NextJS, NodeJS, Golang, MongoDB, MySQL, PostgreSQL
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [pajjaphon.whan@gmail.com](mailto:pajjaphon.whan@gmail.com)
 * 🚀  I'm currently working on [Furukawa Fitel](http://www.fitel.co.th/)
-* 🧠  Now, I'm learning NextJS (App router), Golang (Backend), React Native, Cypress, Docker, Kubernetes, AWS, Github Actions, Gitlab CI
+* 🧠  Now, I'm learning React Native, Cypress, Docker, Kubernetes, AWS, Github Actions
 * 🤝  I'm open to collaborating on Full-stack developer
 * ⚡  I’m interesting in programming/coding, music, and investment/money management.
 
