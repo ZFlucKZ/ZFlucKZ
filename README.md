@@ -5,7 +5,7 @@ A self-taught full-stack developer
 ---------------------------
 
 I'm working on HTML, CSS, Javascript, Typescript, React, NextJS, NodeJS, Golang, MongoDB, MySQL, PostgreSQL
-Jenkins, SonarQube, Postman, AWS services.
+Jenkins, SonarQube, Postman, and Basic of AWS services.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [pajjaphon.whan@gmail.com](mailto:pajjaphon.whan@gmail.com)
