@@ -1,17 +1,16 @@
 Hi 👋 My name is Pajjaphon Whanchid
 ===================================
 
-A self-taught full-stack developer
+A self-taught Full-Stack Developer and DevOps Engineer
 ---------------------------
 
-I'm working on HTML, CSS, JavaScript, TypeScript, React, NextJS, NodeJS, Golang, MongoDB, MySQL, PostgreSQL
-Jenkins, SonarQube, Postman, and the basics of AWS services.
+I'm working on HTML, CSS, JavaScript, TypeScript, React, NextJS, NodeJS, MongoDB, MySQL, PostgreSQL, Github Actions, Terraform, Docker, Kubernetes, ArgoCD, and the basics of AWS services.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [pajjaphon.whan@gmail.com](mailto:pajjaphon.whan@gmail.com)
-* 🚀  I'm currently working on [Furukawa Fitel](http://www.fitel.co.th/)
+* 🚀  I'm currently working on [Furukawa Fitel](http://www.fitel.co.th/) as a full-stack developer
 * 🧠  Now, I'm learning about DevOps, GitOps
-* 🤝  I'm open to collaborating on a Full-stack developer
+* 🤝  I'm open to collaborating on a Full-stack Project and a DevOps Project
 * ⚡  I’m interested in programming/coding, music, and investment/money management.
 
 ### Skills
